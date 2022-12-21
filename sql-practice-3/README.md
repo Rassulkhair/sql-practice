@@ -47,7 +47,7 @@ VALUES('0MN7', 'Rocks', 180, 3),
       ('P2T6', 'Scissors', 150, 2),
       ('TU55', 'Papers', 90, 5);
 ```
-
+### Exercises
 1. Select all warehouses
 2. Select all boxes with a value larger than $150.
 3. Select all distinct contents in all the boxes.
